@@ -1,0 +1,122 @@
+[
+  {
+    "icon": "https://logo.clearbit.com/apple.com",
+    "companyName": "Apple",
+    "position": "Customer Success Manager",
+    "time": "2 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/google.com",
+    "companyName": "Google",
+    "position": "Software Engineer",
+    "time": "5 Hours ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/amazon.com",
+    "companyName": "Amazon",
+    "position": "Product Manager",
+    "time": "1 Day ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/microsoft.com",
+    "companyName": "Microsoft",
+    "position": "Data Analyst",
+    "time": "3 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/facebook.com",
+    "companyName": "Facebook",
+    "position": "UI/UX Designer",
+    "time": "4 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/netflix.com",
+    "companyName": "Netflix",
+    "position": "Marketing Specialist",
+    "time": "6 Hours ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/tesla.com",
+    "companyName": "Tesla",
+    "position": "Mechanical Engineer",
+    "time": "1 Week ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/twitter.com",
+    "companyName": "Twitter",
+    "position": "Content Manager",
+    "time": "2 Weeks ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/airbnb.com",
+    "companyName": "Airbnb",
+    "position": "Community Manager",
+    "time": "3 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/adobe.com",
+    "companyName": "Adobe",
+    "position": "Graphic Designer",
+    "time": "2 Hours ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/spotify.com",
+    "companyName": "Spotify",
+    "position": "Sound Engineer",
+    "time": "3 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/intel.com",
+    "companyName": "Intel",
+    "position": "Hardware Engineer",
+    "time": "5 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/oracle.com",
+    "companyName": "Oracle",
+    "position": "Database Administrator",
+    "time": "1 Month ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/cisco.com",
+    "companyName": "Cisco",
+    "position": "Network Engineer",
+    "time": "1 Week ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/ibm.com",
+    "companyName": "IBM",
+    "position": "AI Researcher",
+    "time": "6 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/linkedin.com",
+    "companyName": "LinkedIn",
+    "position": "Sales Manager",
+    "time": "1 Day ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/paypal.com",
+    "companyName": "PayPal",
+    "position": "Finance Analyst",
+    "time": "3 Weeks ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/shopify.com",
+    "companyName": "Shopify",
+    "position": "E-commerce Specialist",
+    "time": "8 Hours ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/snapchat.com",
+    "companyName": "Snapchat",
+    "position": "Digital Marketer",
+    "time": "2 Days ago"
+  },
+  {
+    "icon": "https://logo.clearbit.com/slack.com",
+    "companyName": "Slack",
+    "position": "Technical Support Specialist",
+    "time": "10 Hours ago"
+  }
+]
