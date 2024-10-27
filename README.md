@@ -1,5 +1,5 @@
 # OpportUnited
-Just a simple project to learn Matter.JS
+Just a simple project to learn Matter.JS in react
 
 
 ## Stack
